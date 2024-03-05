@@ -1,0 +1,20 @@
++----------------------------------------------------------+
+| Simulation details for yang_mills_adaptive_gradient_flow |
++----------------------------------------------------------+
+
+Little endian machine
+
+number of colors: 3
+spacetime dimensionality: 4
+
+lattice: 14x4x4x12
+
+randseed: 0
+
+agf_length     1.000000
+agf_step:      0.100000
+agf_meas_each  0.333000
+agf_delta      1.000000e-02
+
+Simulation time: 4.000 seconds
+
