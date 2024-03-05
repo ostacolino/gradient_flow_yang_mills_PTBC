@@ -1,0 +1,2 @@
+conf.dat_step_20	14*42^3 	conf utilizzata nell'analisi sphaleron[non presente, troppo pesante]
+conf_TEST.dat_step_10	14*4*4*12	conf usata per fare simulazioni rapide
